@@ -24,7 +24,7 @@ token 2: `ipfs://QmRRQqDCNYjukn4NunG8ZZDMBkab9gBR8ztgqfPJu4UfQa/metadata.json`
 
 token 1299: `ipfs://QmZykdui2W2BsAPFJXahCJSnyuAiGnMPhrBnWwUYrA2No9/metadata.json`
 
-## The Web Site Tokens: 1300 - 9546
+## The Website Tokens: 1300 - 9546
 
 Tokens starting at 1300 all use a single IPFS folder hash with numbered json files corresponding to a BAYC id.  The images in the json are all original BAYC ipfs hashes.
 
