@@ -1,0 +1,46 @@
+{
+  "contract": {
+    "address": "0x2ee6af0dff3a1ce3f7e3414c52c48fd50d73691e",
+    "name": "Bored Ape Yacht Club",
+    "symbol": "BAYC",
+    "totalSupply": "9532",
+    "tokenType": "ERC721",
+    "openSea": {
+      "collectionName": "RR/BAYC",
+      "safelistRequestStatus": "requested",
+      "imageUrl": "https://i.seadn.io/gae/IaekjkhasaiGBNjhRck7Hvu-b3Jzmdi1oZB4YcaqiNko1wJqLFA1A09VuXnbIOJLOqgwTeEjjVyc12QkYl8LwHS2PviM51DN_7Np?w=500&auto=format",
+      "description": "you can't copy an NFT.\r\n\r\nconceptual art by Ryder Ripps\r\n\r\nlearn about the truth of BAYC at https://gordongoner.com \r\n\r\nowning a RR/BAYC will allow you to trade Yuga Labs assets without fees. \r\n\r\nclaim yours at https://rrbayc.com",
+      "externalUrl": "http://rrbayc.com",
+      "lastIngestedAt": "2023-10-19T04:24:47.000Z"
+    },
+    "contractDeployer": "0x592814ff14e030b51f6087032db0f88f4214f254",
+    "deployedBlockNumber": 14768863
+  },
+  "tokenId": "1744",
+  "tokenType": "ERC721",
+  "title": "#7718",
+  "description": "",
+  "timeLastUpdated": "2023-08-30T06:47:35.117Z",
+  "rawMetadata": {
+    "name": "#7718",
+    "description": "",
+    "image": "ipfs://QmdcZJPr1Bt2Aj81S1c8DP5b1vNJuyeYoKVhivcK2gYq8E"
+  },
+  "tokenUri": {
+    "gateway": "https://alchemy.mypinata.cloud/ipfs/QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/7718.json",
+    "raw": "ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/7718.json"
+  },
+  "media": [
+    {
+      "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/98e88933a7e7290ca4a53b45d1ca4c54",
+      "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/98e88933a7e7290ca4a53b45d1ca4c54",
+      "raw": "ipfs://QmdcZJPr1Bt2Aj81S1c8DP5b1vNJuyeYoKVhivcK2gYq8E",
+      "format": "png",
+      "bytes": 139936
+    }
+  ],
+  "spamInfo": {
+    "isSpam": true,
+    "classifications": ["HoneyPotsOwnMultipleTokens"]
+  }
+}
