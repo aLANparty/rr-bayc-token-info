@@ -54,7 +54,7 @@ token 977: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/463.json`
 
 ## The Lost Token: 382
 
-Token 382 was minted directly to the `0x0` address.  IPFS data is similar to other <1300 tokens, but can not be queried directly with `tokenURI` because of it's burned status.  It's hashes were retrieved by looking at the parameters passed in it's mint transaction.
+Token 382 was minted, but then burned immediately.  IPFS data is similar to other <1300 tokens, but can not be queried directly with `tokenURI` because of it's burned status.  It's hashes were retrieved by looking at the parameters passed in it's mint transaction.
 
 token 382: `ipfs://QmcfkLubs9pi2VqNzJhkCp5cBNfGJf5RYCvUEcmmTABJ1W/metadata.json`
 
