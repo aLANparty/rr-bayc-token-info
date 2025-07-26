@@ -36,17 +36,7 @@ token 1300: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/4589.json`
 
 token 9546: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/8767.json`
 
-## Unminted Tokens: 9547 - 10000
-
-These tokens do not exist.
-
-## The Lost Token: 382
-
-Token 382 was minted directly to the `0x0` address.  IPFS data is similar to other <1300 tokens, but can not be queried directly with `tokenURI` because of it's burned status.  It's hashes were retrieved by looking at the parameters passed in it's mint transaction.
-
-token 382: `ipfs://QmcfkLubs9pi2VqNzJhkCp5cBNfGJf5RYCvUEcmmTABJ1W/metadata.json`
-
-## Outlier Tokens: Various IDs under <1300
+## Outlier Tokens: 946, 947, 959, 972, 977
 
 These tokens use the 1300 and above shared ipfs format despite being less than token id 1300.  They were not missed or minted out of order, but were actually minted in the excepted sequence, but with the later metadata format.  Working assumption is that these mints were tests for the website system, but I've no verification of that.
 
@@ -61,3 +51,14 @@ token 959: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/88.json`
 token 972: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/1549.json`
 
 token 977: `ipfs://QmdXP2KNU2cuqcJBi6Uaf5bhnu2udmrbtJDfm3dMoewzNu/463.json`
+
+## The Lost Token: 382
+
+Token 382 was minted directly to the `0x0` address.  IPFS data is similar to other <1300 tokens, but can not be queried directly with `tokenURI` because of it's burned status.  It's hashes were retrieved by looking at the parameters passed in it's mint transaction.
+
+token 382: `ipfs://QmcfkLubs9pi2VqNzJhkCp5cBNfGJf5RYCvUEcmmTABJ1W/metadata.json`
+
+## Unminted Tokens: 9547 - 10000
+
+These tokens do not exist.
+
