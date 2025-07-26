@@ -16,6 +16,8 @@ Tokens 2 - 1299 (except 5 outliers) all use a manually uploaded bored ape image,
 
 The metadata for these tokens is named metadata.json and is a single line of json.
 
+(A handful of tokens in this range do not follow this format. see: *Outlier Tokens: Various IDs under <1300* below)
+
 examples
 
 token 2: `ipfs://QmRRQqDCNYjukn4NunG8ZZDMBkab9gBR8ztgqfPJu4UfQa/metadata.json`
@@ -46,7 +48,7 @@ token 382: `ipfs://QmcfkLubs9pi2VqNzJhkCp5cBNfGJf5RYCvUEcmmTABJ1W/metadata.json`
 
 ## Outlier Tokens: Various IDs under <1300
 
-These tokens use the 1300 and above shared ipfs format despite being less than token id 1300.
+These tokens use the 1300 and above shared ipfs format despite being less than token id 1300.  They were not missed or minted out of order, but were actually minted in the excepted sequence, but with the later metadata format.  Working assumption is that these mints were tests for the website system, but I've no verification of that.
 
 examples
 
